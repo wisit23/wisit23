@@ -4,8 +4,6 @@
 ### **Wisit Jiamsan**
 **Computer Science Student at King Mongkut's Institute of Technology Ladkrabang (KMITL)**
 
-I am an AI enthusiast with a track record in high-stakes industry challenges. I focus on architecting end-to-end AI solutions, from data preprocessing to model deployment, to deliver measurable business impact.
-
 ### 🏆 Achievements & Hackathons
 ---
 

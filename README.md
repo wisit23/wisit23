@@ -24,9 +24,9 @@
 ### 🛠 Skills & Tools
 ---
 
-*   **Languages:** Python, Java, SQL (PostgreSQL, MySQL)
+*   **Languages:** Python, Java, SQL (PostgreSQL, MySQL), JavaScript 
 *   **Frameworks:** FastAPI, PyTorch, Scikit-learn, Pandas, NumPy
-*   **Tools & Cloud:** Docker, Git, Roboflow
+*   **Tools & Cloud:** Docker, Git, Roboflow, AWS, GCP
 
 
 📫 **Contact Me:**

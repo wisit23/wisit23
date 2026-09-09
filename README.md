@@ -13,7 +13,6 @@
     *   🏅 **Special Award** - Financial Analysis Agent Hackathon 2025 (SCBx): Created a 4-stage multi-agent orchestration system with Typhoon 2.1 and Qwen3-8B.
     *   🥉 **Honorable Mention (4th Place)** - Liver Fibrosis Severity Prediction (CUMED).
 
-* 
 
 ### 💼 Experience
 ---
